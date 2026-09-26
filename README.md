@@ -1,8 +1,8 @@
 <div align="center">
 
-![TechStart ISO 27001 Cloud Migration Banner](banner.png)
-
 # TechStart Inc — ISO 27001 Risk Assessment for Cloud Migration
+
+<img width="3200" height="840" alt="banner" src="https://github.com/user-attachments/assets/d473e8b4-22f4-4c06-ba89-96b8aef6d78a" />
 
 ![Progress](https://img.shields.io/badge/Progress-100%25-success) ![ISO 27001](https://img.shields.io/badge/-ISO%2027001-informational) ![NIST CSF](https://img.shields.io/badge/-NIST%20CSF-informational) ![CIS Controls](https://img.shields.io/badge/-CIS%20Controls-informational)
 
