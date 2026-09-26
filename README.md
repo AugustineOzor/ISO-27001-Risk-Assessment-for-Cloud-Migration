@@ -30,9 +30,9 @@ This repo is a structured, portfolio-style write-up of the assessment: a realist
 | Page | Contents |
 |---|---|
 | ⚠️ [01 – Risk Register](techstart-iso27001-cloud-migration/01-risk-register.md)| 5 scored risks across the migration (application, database, cloud account, network, and storage) |
-| 📐 [02 – Scoring Legend (detailed)](techstart-iso27001-cloud-migration/02-legend.md)| Likelihood/impact scales, risk score bands, and control effectiveness definitions |
-| [🛡️ [03 – Controls (detailed)](techstart-iso27001-cloud-migration/03-controls.md) | 5 controls mapped to ISO 27001 Annex A, NIST CSF, and CIS Controls, each linked to a specific risk |
-| [📋 [04 – Risk Treatment Plan (detailed)](techstart-iso27001-cloud-migration/04-risk-treatment-plan.md) | Treatment strategy, status, ownership, and target dates for each risk |
+| 📐 [02 – Scoring Legend](techstart-iso27001-cloud-migration/02-legend.md)| Likelihood/impact scales, risk score bands, and control effectiveness definitions |
+| [🛡️ [03 – Controls](techstart-iso27001-cloud-migration/03-controls.md) | 5 controls mapped to ISO 27001 Annex A, NIST CSF, and CIS Controls, each linked to a specific risk |
+| [📋 [04 – Risk Treatment Plan](techstart-iso27001-cloud-migration/04-risk-treatment-plan.md) | Treatment strategy, status, ownership, and target dates for each risk |
 
 ## Portfolio Summary
 
