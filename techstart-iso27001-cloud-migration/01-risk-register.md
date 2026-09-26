@@ -85,6 +85,6 @@ Likelihood rated Possible (3) since bucket misconfiguration and accidental delet
 
 <div align="center">
 
-[← Overview](README.md) &nbsp;|&nbsp; [🏠 Home](README.md) &nbsp;|&nbsp; [Scoring Legend →](02-legend.md)
+[← Overview](README.md) &nbsp;| [Scoring Legend →](02-legend.md)
 
 </div>
