@@ -55,8 +55,3 @@ Each page links to the next via the navigation bar at the bottom — Risk Regist
 
 ---
 
-<div align="center">
-
-**[Start with the Risk Register →](01-risk-register.md)**
-
-</div>
