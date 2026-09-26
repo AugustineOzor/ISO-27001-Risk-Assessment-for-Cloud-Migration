@@ -85,6 +85,6 @@ Rated Effective because monthly automated scans have consistently confirmed no p
 
 <div align="center">
 
-[← Scoring Legend](02-legend.md) &nbsp;|&nbsp; [🏠 Home](README.md) &nbsp;|&nbsp; [Risk Treatment Plan →](04-risk-treatment-plan.md)
+[← Scoring Legend](02-legend.md) &nbsp;| [Risk Treatment Plan →](04-risk-treatment-plan.md)
 
 </div>
