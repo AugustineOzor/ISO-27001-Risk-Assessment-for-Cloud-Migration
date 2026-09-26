@@ -37,6 +37,6 @@ Risk Score = Likelihood × Impact
 
 <div align="center">
 
-[← Risk Register](01-risk-register.md) &nbsp;|&nbsp; [🏠 Home](README.md) &nbsp;|&nbsp; [Controls →](03-controls.md)
+[← Risk Register](01-risk-register.md) &nbsp;| [Controls →](03-controls.md)
 
 </div>
