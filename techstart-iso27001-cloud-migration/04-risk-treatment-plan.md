@@ -65,6 +65,5 @@ Enforced account-level Block Public Access and default encryption/versioning on 
 
 <div align="center">
 
-[← Controls](03-controls.md) &nbsp;|&nbsp; [🏠 Home](README.md)
-
+[← Controls](03-controls.md) 
 </div>
